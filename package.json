@@ -1,6 +1,6 @@
 {
    "name": "nodejs-zeroconf-script",
-   "version": "0.1.0",
+   "version": "1.0.0",
    "private": true,
    "main": "src/index.js",
    "scripts": {
@@ -20,6 +20,6 @@
       "pretty-error": "^2.1.1"
    },
    "engines": {
-      "node": "12.16.1"
+      "node": "12.20.0"
    }
 }
